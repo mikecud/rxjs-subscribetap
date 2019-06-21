@@ -1,4 +1,4 @@
-# RxJS-SubscribeTap operator
+# RxJS-SubscribeTap operator [![Build Status](https://travis-ci.com/mikecud/rxjs-subscribetap.svg?branch=master)](https://travis-ci.com/mikecud/rxjs-subscribetap) [![NPM version](https://img.shields.io/npm/v/rxjs-subscribetap.svg)](https://www.npmjs.com/package/rxjs-subscribetap)
 
 SubscribeTap is a RxJS' operator that will execute defined function for you when the source gets subscribed.
 
